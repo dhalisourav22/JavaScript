@@ -17,5 +17,5 @@ for(let i =0; i<5; i++){
         lost++;
     }
 }
-document.write("You WON "+wine+" Times.<br>");
-document.write("You LOST "+lost+" Times.");
+document.write("You WON "+wine+" Time's.<br>");
+document.write("You LOST "+lost+" Time's.");
