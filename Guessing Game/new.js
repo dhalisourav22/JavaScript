@@ -13,7 +13,7 @@ for(let i =0; i<5; i++){
         wine++;
     }
     else{
-        console.log('You LOST..!    You Guess Wrong One..!     The Guess is :'+guessNumber);
+        console.log('You LOST..!    You Guess Wrong One..!     The Real Guess is :'+guessNumber);
         lost++;
     }
 }
