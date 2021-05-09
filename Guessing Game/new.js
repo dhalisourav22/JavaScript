@@ -6,7 +6,7 @@
 
 let wine = 0, lost =0;
 for(let i =0; i<5; i++){
-    let number = Number(prompt('Enter Your Guessing Number : '));
+    let number = Number(prompt('Enter Your Guessing Number Under(1 to 5) : '));
     let guessNumber = Math.floor(Math.random()*5)+1;
     if(number==guessNumber){
         console.log('You WON..!     You Guess Right One..!');
