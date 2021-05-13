@@ -17,7 +17,7 @@ ctx.arc(356/2,264/2,100,0,2*Math.PI,false);
 ctx.fill();
 ctx.stroke();
 
-//making Line 
+//Making Line 
 ctx.moveTo(10,10);
 ctx.lineTo(363,271);
 ctx.stroke();
