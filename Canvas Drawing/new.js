@@ -10,7 +10,7 @@ ctx.lineWidth=3;
 ctx.strokeStyle = "blue"
 ctx.strokeRect(8,8,356,264);
 
-//making Circle
+//Making Circle
 ctx.beginPath();
 ctx.fillStyle = "rgb(201, 201, 247)";
 ctx.arc(356/2,264/2,100,0,2*Math.PI,false);
