@@ -22,14 +22,14 @@ ctx.moveTo(10,10);
 ctx.lineTo(363,271);
 ctx.stroke();
 
-//making Text
+//Making Text
 ctx.font = "30px Verdana";
 // ctx.fillStyle = "black";
 // ctx.fillText("This is Sourav",10,100);
 ctx.strokeStyle = "black";
 ctx.strokeText("This is Sourav",10,100);
 
-//making Image
+//Making Image
 // function imgWork(){
 //     var img = document.querySelector("#my-img");
 //     ctx.drawImage(img,10,10);
