@@ -1,7 +1,7 @@
 var c = document.getElementById("my-canvas");
 var ctx = c.getContext("2d");
 
-//making Rectangle
+//Making Rectangle
 ctx.fillStyle = "rgb(132, 132, 223)";
 ctx.fillRect(10,10,352,260); 
 
