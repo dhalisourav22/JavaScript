@@ -11,4 +11,4 @@ function higherOrderFunction (num, callback){ //the pasing function as a paramet
     callback(num);     //tht's how this is call a previous function. thst's why this is called a callback function
 }
 
-higherOrderFunction(12, square);   //the function which take an parameter as a function , this function is called a higher order function
+higherOrderFunction(12, square);  //the function which take an parameter as a function , this function is called a higher order function
